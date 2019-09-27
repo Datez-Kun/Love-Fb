@@ -5,8 +5,8 @@ How To Install
 <li><code>pkg install git python2</code></li>
 <li><code>pip2 install --upgrade pip</code></li>
 <li><code>git clone https://github.com/NotHax/DarkFbVIP</code></li>
-<li><code>cd DarkVIP</code></li>
-<li><code>python2 DarkFbVIP.py</code></li>
+<li><code>cd Love-Fb</code></li>
+<li><code>python2 Love.py</code></li>
 </ul>
 <br />
 <br />
